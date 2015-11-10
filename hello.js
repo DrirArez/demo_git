@@ -1,3 +1,3 @@
 alert("hello")
 alert ("bonjour)
-var hello = 8 ;
+var hello = 8;
